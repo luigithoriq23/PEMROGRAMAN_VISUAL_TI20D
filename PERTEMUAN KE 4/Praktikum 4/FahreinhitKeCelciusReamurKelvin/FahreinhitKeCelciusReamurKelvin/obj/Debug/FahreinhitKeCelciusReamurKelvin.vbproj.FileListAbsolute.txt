@@ -1,0 +1,11 @@
+C:\Users\Aziz Maulana\Downloads\Tugas Ke 4\Praktikum 4\FahreinhitKeCelciusReamurKelvin\FahreinhitKeCelciusReamurKelvin\bin\Debug\FahreinhitKeCelciusReamurKelvin.exe.config
+C:\Users\Aziz Maulana\Downloads\Tugas Ke 4\Praktikum 4\FahreinhitKeCelciusReamurKelvin\FahreinhitKeCelciusReamurKelvin\bin\Debug\FahreinhitKeCelciusReamurKelvin.exe
+C:\Users\Aziz Maulana\Downloads\Tugas Ke 4\Praktikum 4\FahreinhitKeCelciusReamurKelvin\FahreinhitKeCelciusReamurKelvin\bin\Debug\FahreinhitKeCelciusReamurKelvin.pdb
+C:\Users\Aziz Maulana\Downloads\Tugas Ke 4\Praktikum 4\FahreinhitKeCelciusReamurKelvin\FahreinhitKeCelciusReamurKelvin\bin\Debug\FahreinhitKeCelciusReamurKelvin.xml
+C:\Users\Aziz Maulana\Downloads\Tugas Ke 4\Praktikum 4\FahreinhitKeCelciusReamurKelvin\FahreinhitKeCelciusReamurKelvin\obj\Debug\FahreinhitKeCelciusReamurKelvin.vbprojResolveAssemblyReference.cache
+C:\Users\Aziz Maulana\Downloads\Tugas Ke 4\Praktikum 4\FahreinhitKeCelciusReamurKelvin\FahreinhitKeCelciusReamurKelvin\obj\Debug\FahreinhitKeCelciusReamurKelvin.FahreinhitKeCelciusReamurKelvin.resources
+C:\Users\Aziz Maulana\Downloads\Tugas Ke 4\Praktikum 4\FahreinhitKeCelciusReamurKelvin\FahreinhitKeCelciusReamurKelvin\obj\Debug\FahreinhitKeCelciusReamurKelvin.Resources.resources
+C:\Users\Aziz Maulana\Downloads\Tugas Ke 4\Praktikum 4\FahreinhitKeCelciusReamurKelvin\FahreinhitKeCelciusReamurKelvin\obj\Debug\FahreinhitKeCelciusReamurKelvin.vbproj.GenerateResource.Cache
+C:\Users\Aziz Maulana\Downloads\Tugas Ke 4\Praktikum 4\FahreinhitKeCelciusReamurKelvin\FahreinhitKeCelciusReamurKelvin\obj\Debug\FahreinhitKeCelciusReamurKelvin.exe
+C:\Users\Aziz Maulana\Downloads\Tugas Ke 4\Praktikum 4\FahreinhitKeCelciusReamurKelvin\FahreinhitKeCelciusReamurKelvin\obj\Debug\FahreinhitKeCelciusReamurKelvin.xml
+C:\Users\Aziz Maulana\Downloads\Tugas Ke 4\Praktikum 4\FahreinhitKeCelciusReamurKelvin\FahreinhitKeCelciusReamurKelvin\obj\Debug\FahreinhitKeCelciusReamurKelvin.pdb

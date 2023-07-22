@@ -1,0 +1,13 @@
+C:\Users\Aziz Maulana\Downloads\pertemuan\AppAkademik\AppAkademik\bin\Debug\AppAkademik.exe.config
+C:\Users\Aziz Maulana\Downloads\pertemuan\AppAkademik\AppAkademik\obj\Debug\AppAkademik.vbprojResolveAssemblyReference.cache
+C:\Users\Aziz Maulana\Downloads\pertemuan\AppAkademik\AppAkademik\obj\Debug\AppAkademik.Form1.resources
+C:\Users\Aziz Maulana\Downloads\pertemuan\AppAkademik\AppAkademik\obj\Debug\AppAkademik.Resources.resources
+C:\Users\Aziz Maulana\Downloads\pertemuan\AppAkademik\AppAkademik\obj\Debug\AppAkademik.vbproj.GenerateResource.Cache
+C:\Users\Aziz Maulana\Downloads\pertemuan\AppAkademik\AppAkademik\bin\Debug\AppAkademik.exe
+C:\Users\Aziz Maulana\Downloads\pertemuan\AppAkademik\AppAkademik\bin\Debug\AppAkademik.pdb
+C:\Users\Aziz Maulana\Downloads\pertemuan\AppAkademik\AppAkademik\bin\Debug\AppAkademik.xml
+C:\Users\Aziz Maulana\Downloads\pertemuan\AppAkademik\AppAkademik\bin\Debug\MySql.Data.dll
+C:\Users\Aziz Maulana\Downloads\pertemuan\AppAkademik\AppAkademik\obj\Debug\AppAkademik.exe
+C:\Users\Aziz Maulana\Downloads\pertemuan\AppAkademik\AppAkademik\obj\Debug\AppAkademik.xml
+C:\Users\Aziz Maulana\Downloads\pertemuan\AppAkademik\AppAkademik\obj\Debug\AppAkademik.pdb
+C:\Users\Aziz Maulana\Downloads\pertemuan\AppAkademik\AppAkademik\obj\Debug\AppAkademik.Form2.resources

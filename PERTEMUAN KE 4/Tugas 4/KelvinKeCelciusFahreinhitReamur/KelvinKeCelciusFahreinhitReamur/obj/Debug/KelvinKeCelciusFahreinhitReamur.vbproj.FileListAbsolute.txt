@@ -1,0 +1,15 @@
+C:\Users\Aziz Maulana\Downloads\Tugas Ke 4\Tugas 4\KelvinKeCelciusFahreinhitReamur\KelvinKeCelciusFahreinhitReamur\bin\Debug\KelvinKeCelciusFahreinhitReamur.exe.config
+C:\Users\Aziz Maulana\Downloads\Tugas Ke 4\Tugas 4\KelvinKeCelciusFahreinhitReamur\KelvinKeCelciusFahreinhitReamur\bin\Debug\KelvinKeCelciusFahreinhitReamur.exe
+C:\Users\Aziz Maulana\Downloads\Tugas Ke 4\Tugas 4\KelvinKeCelciusFahreinhitReamur\KelvinKeCelciusFahreinhitReamur\bin\Debug\KelvinKeCelciusFahreinhitReamur.pdb
+C:\Users\Aziz Maulana\Downloads\Tugas Ke 4\Tugas 4\KelvinKeCelciusFahreinhitReamur\KelvinKeCelciusFahreinhitReamur\bin\Debug\KelvinKeCelciusFahreinhitReamur.xml
+C:\Users\Aziz Maulana\Downloads\Tugas Ke 4\Tugas 4\KelvinKeCelciusFahreinhitReamur\KelvinKeCelciusFahreinhitReamur\obj\Debug\KelvinKeCelciusFahreinhitReamur.vbprojResolveAssemblyReference.cache
+C:\Users\Aziz Maulana\Downloads\Tugas Ke 4\Tugas 4\KelvinKeCelciusFahreinhitReamur\KelvinKeCelciusFahreinhitReamur\obj\Debug\KelvinKeCelciusFahreinhitReamur.KelvinKeCelciusFahreinhitReamur.resources
+C:\Users\Aziz Maulana\Downloads\Tugas Ke 4\Tugas 4\KelvinKeCelciusFahreinhitReamur\KelvinKeCelciusFahreinhitReamur\obj\Debug\KelvinKeCelciusFahreinhitReamur.Resources.resources
+C:\Users\Aziz Maulana\Downloads\Tugas Ke 4\Tugas 4\KelvinKeCelciusFahreinhitReamur\KelvinKeCelciusFahreinhitReamur\obj\Debug\KelvinKeCelciusFahreinhitReamur.vbproj.GenerateResource.Cache
+C:\Users\Aziz Maulana\Downloads\Tugas Ke 4\Tugas 4\KelvinKeCelciusFahreinhitReamur\KelvinKeCelciusFahreinhitReamur\obj\Debug\KelvinKeCelciusFahreinhitReamur.exe
+C:\Users\Aziz Maulana\Downloads\Tugas Ke 4\Tugas 4\KelvinKeCelciusFahreinhitReamur\KelvinKeCelciusFahreinhitReamur\obj\Debug\KelvinKeCelciusFahreinhitReamur.xml
+C:\Users\Aziz Maulana\Downloads\Tugas Ke 4\Tugas 4\KelvinKeCelciusFahreinhitReamur\KelvinKeCelciusFahreinhitReamur\obj\Debug\KelvinKeCelciusFahreinhitReamur.pdb
+C:\Users\Aziz Maulana\Downloads\Vb\Pemrograman_Visual_2023-main\PERTEMUAN KE 4\Tugas 4\KelvinKeCelciusFahreinhitReamur\KelvinKeCelciusFahreinhitReamur\bin\Debug\KelvinKeCelciusFahreinhitReamur.exe.config
+C:\Users\Aziz Maulana\Downloads\Vb\Pemrograman_Visual_2023-main\PERTEMUAN KE 4\Tugas 4\KelvinKeCelciusFahreinhitReamur\KelvinKeCelciusFahreinhitReamur\obj\Debug\KelvinKeCelciusFahreinhitReamur.exe
+C:\Users\Aziz Maulana\Downloads\Vb\Pemrograman_Visual_2023-main\PERTEMUAN KE 4\Tugas 4\KelvinKeCelciusFahreinhitReamur\KelvinKeCelciusFahreinhitReamur\obj\Debug\KelvinKeCelciusFahreinhitReamur.xml
+C:\Users\Aziz Maulana\Downloads\Vb\Pemrograman_Visual_2023-main\PERTEMUAN KE 4\Tugas 4\KelvinKeCelciusFahreinhitReamur\KelvinKeCelciusFahreinhitReamur\obj\Debug\KelvinKeCelciusFahreinhitReamur.pdb

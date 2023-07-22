@@ -1,0 +1,14 @@
+C:\Users\Aziz Maulana\Downloads\tgs 2\Praktikum2\Praktikum2_Limas\Praktikum2_Limas\bin\Debug\Praktikum2_Limas.exe.config
+C:\Users\Aziz Maulana\Downloads\tgs 2\Praktikum2\Praktikum2_Limas\Praktikum2_Limas\bin\Debug\Praktikum2_Limas.exe
+C:\Users\Aziz Maulana\Downloads\tgs 2\Praktikum2\Praktikum2_Limas\Praktikum2_Limas\bin\Debug\Praktikum2_Limas.pdb
+C:\Users\Aziz Maulana\Downloads\tgs 2\Praktikum2\Praktikum2_Limas\Praktikum2_Limas\bin\Debug\Praktikum2_Limas.xml
+C:\Users\Aziz Maulana\Downloads\tgs 2\Praktikum2\Praktikum2_Limas\Praktikum2_Limas\obj\Debug\Praktikum2_Limas.Limas.resources
+C:\Users\Aziz Maulana\Downloads\tgs 2\Praktikum2\Praktikum2_Limas\Praktikum2_Limas\obj\Debug\Praktikum2_Limas.Resources.resources
+C:\Users\Aziz Maulana\Downloads\tgs 2\Praktikum2\Praktikum2_Limas\Praktikum2_Limas\obj\Debug\Praktikum2_Limas.vbproj.GenerateResource.Cache
+C:\Users\Aziz Maulana\Downloads\tgs 2\Praktikum2\Praktikum2_Limas\Praktikum2_Limas\obj\Debug\Praktikum2_Limas.exe
+C:\Users\Aziz Maulana\Downloads\tgs 2\Praktikum2\Praktikum2_Limas\Praktikum2_Limas\obj\Debug\Praktikum2_Limas.xml
+C:\Users\Aziz Maulana\Downloads\tgs 2\Praktikum2\Praktikum2_Limas\Praktikum2_Limas\obj\Debug\Praktikum2_Limas.pdb
+C:\Users\Aziz Maulana\Downloads\TUGAS KE 2\Praktikum2\Praktikum2_Limas\Praktikum2_Limas\bin\Debug\Praktikum2_Limas.exe.config
+C:\Users\Aziz Maulana\Downloads\TUGAS KE 2\Praktikum2\Praktikum2_Limas\Praktikum2_Limas\obj\Debug\Praktikum2_Limas.exe
+C:\Users\Aziz Maulana\Downloads\TUGAS KE 2\Praktikum2\Praktikum2_Limas\Praktikum2_Limas\obj\Debug\Praktikum2_Limas.xml
+C:\Users\Aziz Maulana\Downloads\TUGAS KE 2\Praktikum2\Praktikum2_Limas\Praktikum2_Limas\obj\Debug\Praktikum2_Limas.pdb

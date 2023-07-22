@@ -1,0 +1,22 @@
+C:\Users\Aziz Maulana\Downloads\tgs 2\Latihan2_Lingkaran\Latihan2_Lingkaran\bin\Debug\Latihan2_Lingkaran.exe.config
+C:\Users\Aziz Maulana\Downloads\tgs 2\Latihan2\Latihan2_Lingkaran\Latihan2_Lingkaran\bin\Debug\Latihan2_Lingkaran.exe.config
+C:\Users\Aziz Maulana\Downloads\tgs 2\Latihan2\Latihan2_Lingkaran\Latihan2_Lingkaran\bin\Debug\Latihan2_Lingkaran.exe
+C:\Users\Aziz Maulana\Downloads\tgs 2\Latihan2\Latihan2_Lingkaran\Latihan2_Lingkaran\bin\Debug\Latihan2_Lingkaran.pdb
+C:\Users\Aziz Maulana\Downloads\tgs 2\Latihan2\Latihan2_Lingkaran\Latihan2_Lingkaran\bin\Debug\Latihan2_Lingkaran.xml
+C:\Users\Aziz Maulana\Downloads\tgs 2\Latihan2\Latihan2_Lingkaran\Latihan2_Lingkaran\obj\Debug\Latihan2_Lingkaran.Lingkaran.resources
+C:\Users\Aziz Maulana\Downloads\tgs 2\Latihan2\Latihan2_Lingkaran\Latihan2_Lingkaran\obj\Debug\Latihan2_Lingkaran.Resources.resources
+C:\Users\Aziz Maulana\Downloads\tgs 2\Latihan2\Latihan2_Lingkaran\Latihan2_Lingkaran\obj\Debug\Latihan2_Lingkaran.vbproj.GenerateResource.Cache
+C:\Users\Aziz Maulana\Downloads\tgs 2\Latihan2\Latihan2_Lingkaran\Latihan2_Lingkaran\obj\Debug\Latihan2_Lingkaran.exe
+C:\Users\Aziz Maulana\Downloads\tgs 2\Latihan2\Latihan2_Lingkaran\Latihan2_Lingkaran\obj\Debug\Latihan2_Lingkaran.xml
+C:\Users\Aziz Maulana\Downloads\tgs 2\Latihan2\Latihan2_Lingkaran\Latihan2_Lingkaran\obj\Debug\Latihan2_Lingkaran.pdb
+C:\Users\Aziz Maulana\Downloads\TUGAS KE 2\Latihan2\Latihan2_Lingkaran\Latihan2_Lingkaran\bin\Debug\Latihan2_Lingkaran.exe.config
+C:\Users\Aziz Maulana\Downloads\TUGAS KE 2\Latihan2\Latihan2_Lingkaran\Latihan2_Lingkaran\obj\Debug\Latihan2_Lingkaran.exe
+C:\Users\Aziz Maulana\Downloads\TUGAS KE 2\Latihan2\Latihan2_Lingkaran\Latihan2_Lingkaran\obj\Debug\Latihan2_Lingkaran.xml
+C:\Users\Aziz Maulana\Downloads\TUGAS KE 2\Latihan2\Latihan2_Lingkaran\Latihan2_Lingkaran\obj\Debug\Latihan2_Lingkaran.pdb
+C:\Users\Aziz Maulana\Downloads\TUGAS KE 2\Latihan2\Latihan2_Lingkaran\Latihan2_Lingkaran\bin\Debug\Latihan2_Lingkaran.exe
+C:\Users\Aziz Maulana\Downloads\TUGAS KE 2\Latihan2\Latihan2_Lingkaran\Latihan2_Lingkaran\bin\Debug\Latihan2_Lingkaran.pdb
+C:\Users\Aziz Maulana\Downloads\TUGAS KE 2\Latihan2\Latihan2_Lingkaran\Latihan2_Lingkaran\bin\Debug\Latihan2_Lingkaran.xml
+C:\Users\Aziz Maulana\Downloads\TUGAS KE 2\Latihan2\Latihan2_Lingkaran\Latihan2_Lingkaran\obj\Debug\Latihan2_Lingkaran.vbprojResolveAssemblyReference.cache
+C:\Users\Aziz Maulana\Downloads\TUGAS KE 2\Latihan2\Latihan2_Lingkaran\Latihan2_Lingkaran\obj\Debug\Latihan2_Lingkaran.Lingkaran.resources
+C:\Users\Aziz Maulana\Downloads\TUGAS KE 2\Latihan2\Latihan2_Lingkaran\Latihan2_Lingkaran\obj\Debug\Latihan2_Lingkaran.Resources.resources
+C:\Users\Aziz Maulana\Downloads\TUGAS KE 2\Latihan2\Latihan2_Lingkaran\Latihan2_Lingkaran\obj\Debug\Latihan2_Lingkaran.vbproj.GenerateResource.Cache

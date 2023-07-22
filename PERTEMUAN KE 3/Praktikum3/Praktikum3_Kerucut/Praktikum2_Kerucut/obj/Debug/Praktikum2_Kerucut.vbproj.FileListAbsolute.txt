@@ -1,0 +1,20 @@
+C:\Users\Aziz Maulana\Downloads\tgs 2\Praktikum2\Praktikum2_Kerucut\Praktikum2_Kerucut\bin\Debug\Praktikum2_Kerucut.exe.config
+C:\Users\Aziz Maulana\Downloads\tgs 2\Praktikum2\Praktikum2_Kerucut\Praktikum2_Kerucut\bin\Debug\Praktikum2_Kerucut.exe
+C:\Users\Aziz Maulana\Downloads\tgs 2\Praktikum2\Praktikum2_Kerucut\Praktikum2_Kerucut\bin\Debug\Praktikum2_Kerucut.pdb
+C:\Users\Aziz Maulana\Downloads\tgs 2\Praktikum2\Praktikum2_Kerucut\Praktikum2_Kerucut\bin\Debug\Praktikum2_Kerucut.xml
+C:\Users\Aziz Maulana\Downloads\tgs 2\Praktikum2\Praktikum2_Kerucut\Praktikum2_Kerucut\obj\Debug\Praktikum2_Kerucut.Kerucut.resources
+C:\Users\Aziz Maulana\Downloads\tgs 2\Praktikum2\Praktikum2_Kerucut\Praktikum2_Kerucut\obj\Debug\Praktikum2_Kerucut.Resources.resources
+C:\Users\Aziz Maulana\Downloads\tgs 2\Praktikum2\Praktikum2_Kerucut\Praktikum2_Kerucut\obj\Debug\Praktikum2_Kerucut.vbproj.GenerateResource.Cache
+C:\Users\Aziz Maulana\Downloads\tgs 2\Praktikum2\Praktikum2_Kerucut\Praktikum2_Kerucut\obj\Debug\Praktikum2_Kerucut.exe
+C:\Users\Aziz Maulana\Downloads\tgs 2\Praktikum2\Praktikum2_Kerucut\Praktikum2_Kerucut\obj\Debug\Praktikum2_Kerucut.xml
+C:\Users\Aziz Maulana\Downloads\tgs 2\Praktikum2\Praktikum2_Kerucut\Praktikum2_Kerucut\obj\Debug\Praktikum2_Kerucut.pdb
+C:\Users\Aziz Maulana\Downloads\TUGAS KE 2\Praktikum2\Praktikum2_Kerucut\Praktikum2_Kerucut\bin\Debug\Praktikum2_Kerucut.exe.config
+C:\Users\Aziz Maulana\Downloads\TUGAS KE 2\Praktikum2\Praktikum2_Kerucut\Praktikum2_Kerucut\obj\Debug\Praktikum2_Kerucut.exe
+C:\Users\Aziz Maulana\Downloads\TUGAS KE 2\Praktikum2\Praktikum2_Kerucut\Praktikum2_Kerucut\obj\Debug\Praktikum2_Kerucut.xml
+C:\Users\Aziz Maulana\Downloads\TUGAS KE 2\Praktikum2\Praktikum2_Kerucut\Praktikum2_Kerucut\obj\Debug\Praktikum2_Kerucut.pdb
+C:\Users\Aziz Maulana\Downloads\TUGAS KE 2\Praktikum2\Praktikum2_Kerucut\Praktikum2_Kerucut\bin\Debug\Praktikum2_Kerucut.exe
+C:\Users\Aziz Maulana\Downloads\TUGAS KE 2\Praktikum2\Praktikum2_Kerucut\Praktikum2_Kerucut\bin\Debug\Praktikum2_Kerucut.pdb
+C:\Users\Aziz Maulana\Downloads\TUGAS KE 2\Praktikum2\Praktikum2_Kerucut\Praktikum2_Kerucut\bin\Debug\Praktikum2_Kerucut.xml
+C:\Users\Aziz Maulana\Downloads\TUGAS KE 2\Praktikum2\Praktikum2_Kerucut\Praktikum2_Kerucut\obj\Debug\Praktikum2_Kerucut.Kerucut.resources
+C:\Users\Aziz Maulana\Downloads\TUGAS KE 2\Praktikum2\Praktikum2_Kerucut\Praktikum2_Kerucut\obj\Debug\Praktikum2_Kerucut.Resources.resources
+C:\Users\Aziz Maulana\Downloads\TUGAS KE 2\Praktikum2\Praktikum2_Kerucut\Praktikum2_Kerucut\obj\Debug\Praktikum2_Kerucut.vbproj.GenerateResource.Cache

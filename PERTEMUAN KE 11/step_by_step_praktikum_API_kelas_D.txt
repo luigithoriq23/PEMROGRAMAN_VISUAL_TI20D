@@ -1,0 +1,36 @@
+1. phpmyadmin
+   [Setup Database]
+   a. Membuat Database baru, beri nama: dbapi
+   b. Import tabel mahasiswa
+
+2. pyathlonlite
+   [Generate code]
+   a. Extract file pyathlonlite.zip, 
+   b. copykan folder pyathlonlite ke dalam folder c:/xampp/htdocs 
+
+   c. edit file database.php, sesuaikan nama database dgn point nomor 1a
+   d. Jalankan aplikasi pyathlonlite di browser: http://localhost/pyathlonlite    
+   e. Pastikan nama tabel mahasiswa muncul di halaman tersebut
+
+   f. siapkan sebuah folder di dlm htdocs dgn nama: appakademik
+   g. Jalankan VS Code, buat sebuah project baru dengan mengarahkan pada folder appakademik yang ada di dalam 
+      c:/xampp/htdocs/
+   h. buat sebuah file koneksi database dengan nama: database.php
+      isi script copy dari alamat ini:
+      https://dl.dropboxusercontent.com/s/3q3fqk8toeuwiea/database.php
+
+   i. buat file baru di VS Code beri nama: Mahasiswa.php
+   j. pada aplikasi pyathlonlite klik link generate: PHP Class, copy script PHP ke dalam file Mahasiswa.php
+
+   k. buat file baru di VS Code beri nama: mahasiswa_api.php
+   l. pada aplikasi pyathlonlite klik link generate: PHP API, copy script ke dalam file mahasiswa_api.php
+
+   m. Testing sederhana:
+      Menampilkan semua data mahasiswa di browser:
+      http://localhost/appakademik/mahasiswa_api.php
+
+      Menampilkan 1 org mahasiswa di browser:
+      http://localhost/appakademik/mahasiswa_api.php?nidn=6003
+
+3. postman
+   [Testing API]

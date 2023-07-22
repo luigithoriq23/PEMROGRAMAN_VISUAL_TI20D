@@ -1,0 +1,15 @@
+C:\Users\Aziz Maulana\Downloads\tgs 2\Latihan2_Belah_Ketupat\Latihan2_Belah_Ketupat\bin\Debug\Latihan2_Belah_Ketupat.exe.config
+C:\Users\Aziz Maulana\Downloads\tgs 2\Latihan2\Latihan2_Belah_Ketupat\Latihan2_Belah_Ketupat\bin\Debug\Latihan2_Belah_Ketupat.exe.config
+C:\Users\Aziz Maulana\Downloads\tgs 2\Latihan2\Latihan2_Belah_Ketupat\Latihan2_Belah_Ketupat\bin\Debug\Latihan2_Belah_Ketupat.exe
+C:\Users\Aziz Maulana\Downloads\tgs 2\Latihan2\Latihan2_Belah_Ketupat\Latihan2_Belah_Ketupat\bin\Debug\Latihan2_Belah_Ketupat.pdb
+C:\Users\Aziz Maulana\Downloads\tgs 2\Latihan2\Latihan2_Belah_Ketupat\Latihan2_Belah_Ketupat\bin\Debug\Latihan2_Belah_Ketupat.xml
+C:\Users\Aziz Maulana\Downloads\tgs 2\Latihan2\Latihan2_Belah_Ketupat\Latihan2_Belah_Ketupat\obj\Debug\Latihan2_Belah_Ketupat.BelahKetupat.resources
+C:\Users\Aziz Maulana\Downloads\tgs 2\Latihan2\Latihan2_Belah_Ketupat\Latihan2_Belah_Ketupat\obj\Debug\Latihan2_Belah_Ketupat.Resources.resources
+C:\Users\Aziz Maulana\Downloads\tgs 2\Latihan2\Latihan2_Belah_Ketupat\Latihan2_Belah_Ketupat\obj\Debug\Latihan2_Belah_Ketupat.vbproj.GenerateResource.Cache
+C:\Users\Aziz Maulana\Downloads\tgs 2\Latihan2\Latihan2_Belah_Ketupat\Latihan2_Belah_Ketupat\obj\Debug\Latihan2_Belah_Ketupat.exe
+C:\Users\Aziz Maulana\Downloads\tgs 2\Latihan2\Latihan2_Belah_Ketupat\Latihan2_Belah_Ketupat\obj\Debug\Latihan2_Belah_Ketupat.xml
+C:\Users\Aziz Maulana\Downloads\tgs 2\Latihan2\Latihan2_Belah_Ketupat\Latihan2_Belah_Ketupat\obj\Debug\Latihan2_Belah_Ketupat.pdb
+C:\Users\Aziz Maulana\Downloads\TUGAS KE 2\Latihan2\Latihan2_Belah_Ketupat\Latihan2_Belah_Ketupat\bin\Debug\Latihan2_Belah_Ketupat.exe.config
+C:\Users\Aziz Maulana\Downloads\TUGAS KE 2\Latihan2\Latihan2_Belah_Ketupat\Latihan2_Belah_Ketupat\obj\Debug\Latihan2_Belah_Ketupat.exe
+C:\Users\Aziz Maulana\Downloads\TUGAS KE 2\Latihan2\Latihan2_Belah_Ketupat\Latihan2_Belah_Ketupat\obj\Debug\Latihan2_Belah_Ketupat.xml
+C:\Users\Aziz Maulana\Downloads\TUGAS KE 2\Latihan2\Latihan2_Belah_Ketupat\Latihan2_Belah_Ketupat\obj\Debug\Latihan2_Belah_Ketupat.pdb

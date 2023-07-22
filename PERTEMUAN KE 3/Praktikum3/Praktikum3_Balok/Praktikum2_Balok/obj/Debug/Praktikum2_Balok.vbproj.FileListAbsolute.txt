@@ -1,0 +1,22 @@
+C:\Users\Aziz Maulana\Downloads\tgs 2\Praktikum2\Praktikum2_Balok\Praktikum2_Balok\bin\Debug\Praktikum2_Balok.exe.config
+C:\Users\Aziz Maulana\Downloads\tgs 2\Praktikum2\Praktikum2_Balok\Praktikum2_Balok\bin\Debug\Praktikum2_Balok.exe
+C:\Users\Aziz Maulana\Downloads\tgs 2\Praktikum2\Praktikum2_Balok\Praktikum2_Balok\bin\Debug\Praktikum2_Balok.pdb
+C:\Users\Aziz Maulana\Downloads\tgs 2\Praktikum2\Praktikum2_Balok\Praktikum2_Balok\bin\Debug\Praktikum2_Balok.xml
+C:\Users\Aziz Maulana\Downloads\tgs 2\Praktikum2\Praktikum2_Balok\Praktikum2_Balok\obj\Debug\Praktikum2_Balok.vbprojResolveAssemblyReference.cache
+C:\Users\Aziz Maulana\Downloads\tgs 2\Praktikum2\Praktikum2_Balok\Praktikum2_Balok\obj\Debug\Praktikum2_Balok.Balok.resources
+C:\Users\Aziz Maulana\Downloads\tgs 2\Praktikum2\Praktikum2_Balok\Praktikum2_Balok\obj\Debug\Praktikum2_Balok.Resources.resources
+C:\Users\Aziz Maulana\Downloads\tgs 2\Praktikum2\Praktikum2_Balok\Praktikum2_Balok\obj\Debug\Praktikum2_Balok.vbproj.GenerateResource.Cache
+C:\Users\Aziz Maulana\Downloads\tgs 2\Praktikum2\Praktikum2_Balok\Praktikum2_Balok\obj\Debug\Praktikum2_Balok.exe
+C:\Users\Aziz Maulana\Downloads\tgs 2\Praktikum2\Praktikum2_Balok\Praktikum2_Balok\obj\Debug\Praktikum2_Balok.xml
+C:\Users\Aziz Maulana\Downloads\tgs 2\Praktikum2\Praktikum2_Balok\Praktikum2_Balok\obj\Debug\Praktikum2_Balok.pdb
+C:\Users\Aziz Maulana\Downloads\TUGAS KE 2\Praktikum2\Praktikum2_Balok\Praktikum2_Balok\bin\Debug\Praktikum2_Balok.exe.config
+C:\Users\Aziz Maulana\Downloads\TUGAS KE 2\Praktikum2\Praktikum2_Balok\Praktikum2_Balok\obj\Debug\Praktikum2_Balok.exe
+C:\Users\Aziz Maulana\Downloads\TUGAS KE 2\Praktikum2\Praktikum2_Balok\Praktikum2_Balok\obj\Debug\Praktikum2_Balok.xml
+C:\Users\Aziz Maulana\Downloads\TUGAS KE 2\Praktikum2\Praktikum2_Balok\Praktikum2_Balok\obj\Debug\Praktikum2_Balok.pdb
+C:\Users\Aziz Maulana\Downloads\TUGAS KE 2\Praktikum2\Praktikum2_Balok\Praktikum2_Balok\bin\Debug\Praktikum2_Balok.exe
+C:\Users\Aziz Maulana\Downloads\TUGAS KE 2\Praktikum2\Praktikum2_Balok\Praktikum2_Balok\bin\Debug\Praktikum2_Balok.pdb
+C:\Users\Aziz Maulana\Downloads\TUGAS KE 2\Praktikum2\Praktikum2_Balok\Praktikum2_Balok\bin\Debug\Praktikum2_Balok.xml
+C:\Users\Aziz Maulana\Downloads\TUGAS KE 2\Praktikum2\Praktikum2_Balok\Praktikum2_Balok\obj\Debug\Praktikum2_Balok.vbprojResolveAssemblyReference.cache
+C:\Users\Aziz Maulana\Downloads\TUGAS KE 2\Praktikum2\Praktikum2_Balok\Praktikum2_Balok\obj\Debug\Praktikum2_Balok.Balok.resources
+C:\Users\Aziz Maulana\Downloads\TUGAS KE 2\Praktikum2\Praktikum2_Balok\Praktikum2_Balok\obj\Debug\Praktikum2_Balok.Resources.resources
+C:\Users\Aziz Maulana\Downloads\TUGAS KE 2\Praktikum2\Praktikum2_Balok\Praktikum2_Balok\obj\Debug\Praktikum2_Balok.vbproj.GenerateResource.Cache

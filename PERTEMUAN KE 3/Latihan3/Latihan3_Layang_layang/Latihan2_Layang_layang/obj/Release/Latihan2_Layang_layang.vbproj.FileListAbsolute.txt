@@ -1,0 +1,10 @@
+C:\Users\Aziz Maulana\Downloads\tgs 2\Latihan2\Latihan2_Layang_layang\Latihan2_Layang_layang\bin\Release\Latihan2_Layang_layang.exe.config
+C:\Users\Aziz Maulana\Downloads\tgs 2\Latihan2\Latihan2_Layang_layang\Latihan2_Layang_layang\bin\Release\Latihan2_Layang_layang.exe
+C:\Users\Aziz Maulana\Downloads\tgs 2\Latihan2\Latihan2_Layang_layang\Latihan2_Layang_layang\bin\Release\Latihan2_Layang_layang.pdb
+C:\Users\Aziz Maulana\Downloads\tgs 2\Latihan2\Latihan2_Layang_layang\Latihan2_Layang_layang\bin\Release\Latihan2_Layang_layang.xml
+C:\Users\Aziz Maulana\Downloads\tgs 2\Latihan2\Latihan2_Layang_layang\Latihan2_Layang_layang\obj\Release\Latihan2_Layang_layang.Form1.resources
+C:\Users\Aziz Maulana\Downloads\tgs 2\Latihan2\Latihan2_Layang_layang\Latihan2_Layang_layang\obj\Release\Latihan2_Layang_layang.Resources.resources
+C:\Users\Aziz Maulana\Downloads\tgs 2\Latihan2\Latihan2_Layang_layang\Latihan2_Layang_layang\obj\Release\Latihan2_Layang_layang.vbproj.GenerateResource.Cache
+C:\Users\Aziz Maulana\Downloads\tgs 2\Latihan2\Latihan2_Layang_layang\Latihan2_Layang_layang\obj\Release\Latihan2_Layang_layang.exe
+C:\Users\Aziz Maulana\Downloads\tgs 2\Latihan2\Latihan2_Layang_layang\Latihan2_Layang_layang\obj\Release\Latihan2_Layang_layang.xml
+C:\Users\Aziz Maulana\Downloads\tgs 2\Latihan2\Latihan2_Layang_layang\Latihan2_Layang_layang\obj\Release\Latihan2_Layang_layang.pdb

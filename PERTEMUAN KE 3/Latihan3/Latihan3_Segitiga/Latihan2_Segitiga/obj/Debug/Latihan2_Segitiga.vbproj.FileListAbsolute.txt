@@ -1,0 +1,15 @@
+C:\Users\Aziz Maulana\Downloads\tgs 2\Latihan2_Segitiga\Latihan2_Segitiga\bin\Debug\Latihan2_Segitiga.exe.config
+C:\Users\Aziz Maulana\Downloads\tgs 2\Latihan2\Latihan2_Segitiga\Latihan2_Segitiga\bin\Debug\Latihan2_Segitiga.exe.config
+C:\Users\Aziz Maulana\Downloads\tgs 2\Latihan2\Latihan2_Segitiga\Latihan2_Segitiga\bin\Debug\Latihan2_Segitiga.exe
+C:\Users\Aziz Maulana\Downloads\tgs 2\Latihan2\Latihan2_Segitiga\Latihan2_Segitiga\bin\Debug\Latihan2_Segitiga.pdb
+C:\Users\Aziz Maulana\Downloads\tgs 2\Latihan2\Latihan2_Segitiga\Latihan2_Segitiga\bin\Debug\Latihan2_Segitiga.xml
+C:\Users\Aziz Maulana\Downloads\tgs 2\Latihan2\Latihan2_Segitiga\Latihan2_Segitiga\obj\Debug\Latihan2_Segitiga.Segitiga.resources
+C:\Users\Aziz Maulana\Downloads\tgs 2\Latihan2\Latihan2_Segitiga\Latihan2_Segitiga\obj\Debug\Latihan2_Segitiga.Resources.resources
+C:\Users\Aziz Maulana\Downloads\tgs 2\Latihan2\Latihan2_Segitiga\Latihan2_Segitiga\obj\Debug\Latihan2_Segitiga.vbproj.GenerateResource.Cache
+C:\Users\Aziz Maulana\Downloads\tgs 2\Latihan2\Latihan2_Segitiga\Latihan2_Segitiga\obj\Debug\Latihan2_Segitiga.exe
+C:\Users\Aziz Maulana\Downloads\tgs 2\Latihan2\Latihan2_Segitiga\Latihan2_Segitiga\obj\Debug\Latihan2_Segitiga.xml
+C:\Users\Aziz Maulana\Downloads\tgs 2\Latihan2\Latihan2_Segitiga\Latihan2_Segitiga\obj\Debug\Latihan2_Segitiga.pdb
+C:\Users\Aziz Maulana\Downloads\TUGAS KE 2\Latihan2\Latihan2_Segitiga\Latihan2_Segitiga\bin\Debug\Latihan2_Segitiga.exe.config
+C:\Users\Aziz Maulana\Downloads\TUGAS KE 2\Latihan2\Latihan2_Segitiga\Latihan2_Segitiga\obj\Debug\Latihan2_Segitiga.exe
+C:\Users\Aziz Maulana\Downloads\TUGAS KE 2\Latihan2\Latihan2_Segitiga\Latihan2_Segitiga\obj\Debug\Latihan2_Segitiga.xml
+C:\Users\Aziz Maulana\Downloads\TUGAS KE 2\Latihan2\Latihan2_Segitiga\Latihan2_Segitiga\obj\Debug\Latihan2_Segitiga.pdb

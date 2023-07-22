@@ -1,0 +1,13 @@
+http://f0833875.xsph.ru
+
+db:
+f0833875_pemrogramanvisualazizmaulana
+user:
+f0833875_azizmaulana
+psw:
+azizmaulana1997
+
+Имя: f0833875_pemrogramanvisualazizmaulana
+Пользователь: f0833875_azizmaulana
+Пароль: azizmaulana1997
+Адрес хоста: localhost

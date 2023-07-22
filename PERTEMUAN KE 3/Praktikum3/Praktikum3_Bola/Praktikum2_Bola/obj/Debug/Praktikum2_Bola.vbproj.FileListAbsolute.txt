@@ -1,0 +1,20 @@
+C:\Users\Aziz Maulana\Downloads\tgs 2\Praktikum2\Praktikum2_Bola\Praktikum2_Bola\bin\Debug\Praktikum2_Bola.exe.config
+C:\Users\Aziz Maulana\Downloads\tgs 2\Praktikum2\Praktikum2_Bola\Praktikum2_Bola\bin\Debug\Praktikum2_Bola.exe
+C:\Users\Aziz Maulana\Downloads\tgs 2\Praktikum2\Praktikum2_Bola\Praktikum2_Bola\bin\Debug\Praktikum2_Bola.pdb
+C:\Users\Aziz Maulana\Downloads\tgs 2\Praktikum2\Praktikum2_Bola\Praktikum2_Bola\bin\Debug\Praktikum2_Bola.xml
+C:\Users\Aziz Maulana\Downloads\tgs 2\Praktikum2\Praktikum2_Bola\Praktikum2_Bola\obj\Debug\Praktikum2_Bola.Bola.resources
+C:\Users\Aziz Maulana\Downloads\tgs 2\Praktikum2\Praktikum2_Bola\Praktikum2_Bola\obj\Debug\Praktikum2_Bola.Resources.resources
+C:\Users\Aziz Maulana\Downloads\tgs 2\Praktikum2\Praktikum2_Bola\Praktikum2_Bola\obj\Debug\Praktikum2_Bola.vbproj.GenerateResource.Cache
+C:\Users\Aziz Maulana\Downloads\tgs 2\Praktikum2\Praktikum2_Bola\Praktikum2_Bola\obj\Debug\Praktikum2_Bola.exe
+C:\Users\Aziz Maulana\Downloads\tgs 2\Praktikum2\Praktikum2_Bola\Praktikum2_Bola\obj\Debug\Praktikum2_Bola.xml
+C:\Users\Aziz Maulana\Downloads\tgs 2\Praktikum2\Praktikum2_Bola\Praktikum2_Bola\obj\Debug\Praktikum2_Bola.pdb
+C:\Users\Aziz Maulana\Downloads\TUGAS KE 2\Praktikum2\Praktikum2_Bola\Praktikum2_Bola\bin\Debug\Praktikum2_Bola.exe.config
+C:\Users\Aziz Maulana\Downloads\TUGAS KE 2\Praktikum2\Praktikum2_Bola\Praktikum2_Bola\obj\Debug\Praktikum2_Bola.exe
+C:\Users\Aziz Maulana\Downloads\TUGAS KE 2\Praktikum2\Praktikum2_Bola\Praktikum2_Bola\obj\Debug\Praktikum2_Bola.xml
+C:\Users\Aziz Maulana\Downloads\TUGAS KE 2\Praktikum2\Praktikum2_Bola\Praktikum2_Bola\obj\Debug\Praktikum2_Bola.pdb
+C:\Users\Aziz Maulana\Downloads\TUGAS KE 2\Praktikum2\Praktikum2_Bola\Praktikum2_Bola\bin\Debug\Praktikum2_Bola.exe
+C:\Users\Aziz Maulana\Downloads\TUGAS KE 2\Praktikum2\Praktikum2_Bola\Praktikum2_Bola\bin\Debug\Praktikum2_Bola.pdb
+C:\Users\Aziz Maulana\Downloads\TUGAS KE 2\Praktikum2\Praktikum2_Bola\Praktikum2_Bola\bin\Debug\Praktikum2_Bola.xml
+C:\Users\Aziz Maulana\Downloads\TUGAS KE 2\Praktikum2\Praktikum2_Bola\Praktikum2_Bola\obj\Debug\Praktikum2_Bola.Bola.resources
+C:\Users\Aziz Maulana\Downloads\TUGAS KE 2\Praktikum2\Praktikum2_Bola\Praktikum2_Bola\obj\Debug\Praktikum2_Bola.Resources.resources
+C:\Users\Aziz Maulana\Downloads\TUGAS KE 2\Praktikum2\Praktikum2_Bola\Praktikum2_Bola\obj\Debug\Praktikum2_Bola.vbproj.GenerateResource.Cache

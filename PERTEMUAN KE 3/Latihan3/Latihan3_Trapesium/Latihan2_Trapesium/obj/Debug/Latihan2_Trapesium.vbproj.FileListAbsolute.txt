@@ -1,0 +1,15 @@
+C:\Users\Aziz Maulana\Downloads\tgs 2\Latihan2_Trapesium\Latihan2_Trapesium\bin\Debug\Latihan2_Trapesium.exe.config
+C:\Users\Aziz Maulana\Downloads\tgs 2\Latihan2\Latihan2_Trapesium\Latihan2_Trapesium\bin\Debug\Latihan2_Trapesium.exe.config
+C:\Users\Aziz Maulana\Downloads\tgs 2\Latihan2\Latihan2_Trapesium\Latihan2_Trapesium\bin\Debug\Latihan2_Trapesium.exe
+C:\Users\Aziz Maulana\Downloads\tgs 2\Latihan2\Latihan2_Trapesium\Latihan2_Trapesium\bin\Debug\Latihan2_Trapesium.pdb
+C:\Users\Aziz Maulana\Downloads\tgs 2\Latihan2\Latihan2_Trapesium\Latihan2_Trapesium\bin\Debug\Latihan2_Trapesium.xml
+C:\Users\Aziz Maulana\Downloads\tgs 2\Latihan2\Latihan2_Trapesium\Latihan2_Trapesium\obj\Debug\Latihan2_Trapesium.Trapesium.resources
+C:\Users\Aziz Maulana\Downloads\tgs 2\Latihan2\Latihan2_Trapesium\Latihan2_Trapesium\obj\Debug\Latihan2_Trapesium.Resources.resources
+C:\Users\Aziz Maulana\Downloads\tgs 2\Latihan2\Latihan2_Trapesium\Latihan2_Trapesium\obj\Debug\Latihan2_Trapesium.vbproj.GenerateResource.Cache
+C:\Users\Aziz Maulana\Downloads\tgs 2\Latihan2\Latihan2_Trapesium\Latihan2_Trapesium\obj\Debug\Latihan2_Trapesium.exe
+C:\Users\Aziz Maulana\Downloads\tgs 2\Latihan2\Latihan2_Trapesium\Latihan2_Trapesium\obj\Debug\Latihan2_Trapesium.xml
+C:\Users\Aziz Maulana\Downloads\tgs 2\Latihan2\Latihan2_Trapesium\Latihan2_Trapesium\obj\Debug\Latihan2_Trapesium.pdb
+C:\Users\Aziz Maulana\Downloads\TUGAS KE 2\Latihan2\Latihan2_Trapesium\Latihan2_Trapesium\bin\Debug\Latihan2_Trapesium.exe.config
+C:\Users\Aziz Maulana\Downloads\TUGAS KE 2\Latihan2\Latihan2_Trapesium\Latihan2_Trapesium\obj\Debug\Latihan2_Trapesium.exe
+C:\Users\Aziz Maulana\Downloads\TUGAS KE 2\Latihan2\Latihan2_Trapesium\Latihan2_Trapesium\obj\Debug\Latihan2_Trapesium.xml
+C:\Users\Aziz Maulana\Downloads\TUGAS KE 2\Latihan2\Latihan2_Trapesium\Latihan2_Trapesium\obj\Debug\Latihan2_Trapesium.pdb

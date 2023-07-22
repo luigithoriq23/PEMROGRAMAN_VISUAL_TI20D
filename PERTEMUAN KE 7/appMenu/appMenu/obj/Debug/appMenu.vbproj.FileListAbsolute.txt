@@ -1,0 +1,26 @@
+C:\Users\Aziz Maulana\Downloads\tugas6\appMenu\appMenu\bin\Debug\appMenu.exe.config
+C:\Users\Aziz Maulana\Downloads\tugas6\appMenu\appMenu\bin\Debug\appMenu.exe
+C:\Users\Aziz Maulana\Downloads\tugas6\appMenu\appMenu\bin\Debug\appMenu.pdb
+C:\Users\Aziz Maulana\Downloads\tugas6\appMenu\appMenu\bin\Debug\appMenu.xml
+C:\Users\Aziz Maulana\Downloads\tugas6\appMenu\appMenu\obj\Debug\appMenu.vbprojResolveAssemblyReference.cache
+C:\Users\Aziz Maulana\Downloads\tugas6\appMenu\appMenu\obj\Debug\appMenu.Form1.resources
+C:\Users\Aziz Maulana\Downloads\tugas6\appMenu\appMenu\obj\Debug\appMenu.Resources.resources
+C:\Users\Aziz Maulana\Downloads\tugas6\appMenu\appMenu\obj\Debug\appMenu.vbproj.GenerateResource.Cache
+C:\Users\Aziz Maulana\Downloads\tugas6\appMenu\appMenu\obj\Debug\appMenu.exe
+C:\Users\Aziz Maulana\Downloads\tugas6\appMenu\appMenu\obj\Debug\appMenu.xml
+C:\Users\Aziz Maulana\Downloads\tugas6\appMenu\appMenu\obj\Debug\appMenu.pdb
+C:\Users\Aziz Maulana\Downloads\tugas6\appMenu\appMenu\obj\Debug\appMenu.Form2.resources
+C:\Users\Aziz Maulana\Downloads\tugas6\appMenu\appMenu\obj\Debug\appMenu.Form3.resources
+C:\Users\Aziz Maulana\Downloads\PERTEMUAN KE 7\appMenu\appMenu\bin\Debug\appMenu.exe.config
+C:\Users\Aziz Maulana\Downloads\PERTEMUAN KE 7\appMenu\appMenu\obj\Debug\appMenu.exe
+C:\Users\Aziz Maulana\Downloads\PERTEMUAN KE 7\appMenu\appMenu\obj\Debug\appMenu.xml
+C:\Users\Aziz Maulana\Downloads\PERTEMUAN KE 7\appMenu\appMenu\obj\Debug\appMenu.pdb
+C:\Users\Aziz Maulana\Downloads\PERTEMUAN KE 7\appMenu\appMenu\bin\Debug\appMenu.exe
+C:\Users\Aziz Maulana\Downloads\PERTEMUAN KE 7\appMenu\appMenu\bin\Debug\appMenu.pdb
+C:\Users\Aziz Maulana\Downloads\PERTEMUAN KE 7\appMenu\appMenu\bin\Debug\appMenu.xml
+C:\Users\Aziz Maulana\Downloads\PERTEMUAN KE 7\appMenu\appMenu\obj\Debug\appMenu.vbprojResolveAssemblyReference.cache
+C:\Users\Aziz Maulana\Downloads\PERTEMUAN KE 7\appMenu\appMenu\obj\Debug\appMenu.Form1.resources
+C:\Users\Aziz Maulana\Downloads\PERTEMUAN KE 7\appMenu\appMenu\obj\Debug\appMenu.Form2.resources
+C:\Users\Aziz Maulana\Downloads\PERTEMUAN KE 7\appMenu\appMenu\obj\Debug\appMenu.Form3.resources
+C:\Users\Aziz Maulana\Downloads\PERTEMUAN KE 7\appMenu\appMenu\obj\Debug\appMenu.Resources.resources
+C:\Users\Aziz Maulana\Downloads\PERTEMUAN KE 7\appMenu\appMenu\obj\Debug\appMenu.vbproj.GenerateResource.Cache

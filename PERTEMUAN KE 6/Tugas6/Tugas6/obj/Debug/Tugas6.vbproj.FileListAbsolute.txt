@@ -1,0 +1,13 @@
+C:\Users\Aziz Maulana\Downloads\tugas6\Tugas6\Tugas6\bin\Debug\Tugas6.exe.config
+C:\Users\Aziz Maulana\Downloads\tugas6\Tugas6\Tugas6\bin\Debug\Tugas6.exe
+C:\Users\Aziz Maulana\Downloads\tugas6\Tugas6\Tugas6\bin\Debug\Tugas6.pdb
+C:\Users\Aziz Maulana\Downloads\tugas6\Tugas6\Tugas6\bin\Debug\Tugas6.xml
+C:\Users\Aziz Maulana\Downloads\tugas6\Tugas6\Tugas6\obj\Debug\Tugas6.vbprojResolveAssemblyReference.cache
+C:\Users\Aziz Maulana\Downloads\tugas6\Tugas6\Tugas6\obj\Debug\Tugas6.Form1.resources
+C:\Users\Aziz Maulana\Downloads\tugas6\Tugas6\Tugas6\obj\Debug\Tugas6.Resources.resources
+C:\Users\Aziz Maulana\Downloads\tugas6\Tugas6\Tugas6\obj\Debug\Tugas6.vbproj.GenerateResource.Cache
+C:\Users\Aziz Maulana\Downloads\tugas6\Tugas6\Tugas6\obj\Debug\Tugas6.exe
+C:\Users\Aziz Maulana\Downloads\tugas6\Tugas6\Tugas6\obj\Debug\Tugas6.xml
+C:\Users\Aziz Maulana\Downloads\tugas6\Tugas6\Tugas6\obj\Debug\Tugas6.pdb
+C:\Users\Aziz Maulana\Downloads\tugas6\Tugas6\Tugas6\obj\Debug\Tugas6.Form2.resources
+C:\Users\Aziz Maulana\Downloads\tugas6\Tugas6\Tugas6\obj\Debug\Tugas6.Form3.resources
